@@ -36,6 +36,8 @@ while True:
         print("Well done, you found the number")
         break
     print("Hint is: +{} -{}".format(*result))
+	
+	
 counter = 0
 print("Now I will guess your number")
 print("Enter my hints in the format +n-m without spaces")
